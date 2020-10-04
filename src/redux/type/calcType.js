@@ -1,0 +1,1 @@
+export const CALC_TYPE = "CALC_TYPE"

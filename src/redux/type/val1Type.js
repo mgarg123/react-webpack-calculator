@@ -1,0 +1,1 @@
+export const VAL_1_TYPE = "VAL_1_TYPE"
